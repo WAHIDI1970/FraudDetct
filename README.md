@@ -1,4 +1,3 @@
-# BANKFraudDetection
 # 🛡️ Autoencoder-Based Anomaly and Fraud Detection System
 
 This project implements an **unsupervised anomaly detection** solution for financial transactions using a Deep Learning model: the **Autoencoder**. The goal is to flag fraudulent transactions by measuring how poorly the model can reconstruct them.
