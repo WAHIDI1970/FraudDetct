@@ -67,3 +67,4 @@ Install all necessary dependencies using pip:
 
 ```bash
 pip install pandas numpy tensorflow scikit-learn streamlit matplotlib seaborn
+
