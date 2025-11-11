@@ -10,7 +10,7 @@ import joblib
 st.title("Détection d'anomalies avec un Autoencodeur")
 st.markdown("Téléchargez un fichier CSV pour analyser les anomalies")
 
-# Charger le modèle et le scaler
+# Charger le modèle et le scalers
 @st.cache_resource
 def load_artifacts():
     model = load_model('model.h5')
